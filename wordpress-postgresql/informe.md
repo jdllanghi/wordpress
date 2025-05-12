@@ -59,18 +59,21 @@ Para realizar esta práctica el estudiante necesita tener claro los siguientes t
 
 
 ## Paso 1: Crear una carpeta para tu proyecto
+- Creamos la carpeta para wordpress
 <img src="paso 1.png" alt="Paso2" width="800">
 <img src="paso (1.1).png" alt="Paso2" width="800">
 
 
 ## Paso 2: Crear el archivo docker-compose.yml
+- En este paso describimos el archivo yml
 <img src="paso 2.png" alt="Paso2" width="800">
 
 ## Paso 3: Levantar los servicios
+- Aqui vemos si docker esta corriendo 
 <img src="paso 3.png" alt="Paso2" width="800">
 
-## Paso 3: Acceder a los servicios
-
+## Paso 4: Acceder a los servicios
+- Comprobamos que los puertos esten corriendo 
 - WordPress: http://localhost:8080
 
 - pgAdmin: http://localhost:8081
