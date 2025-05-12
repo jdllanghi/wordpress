@@ -21,11 +21,7 @@ Para lograr esta práctica, se deben entender varios conceptos clave:
 - **Redes**: permiten que los contenedores se comuniquen entre sí de forma interna.
 - **Volúmenes**: se usan para persistir datos incluso si el contenedor se reinicia o elimina.
 
-A continuación se muestra un diagrama representativo de los contenedores:
 
-![Figura 1-1. Diagrama de contenedores](https://raw.githubusercontent.com/docker-library/docs/0dbb9941/wordpress/logo.png)
-
-*Figura 1-1. Diagrama de contenedores WordPress, MySQL y phpMyAdmin conectados a través de Docker Compose.*
 
 ## 4. Conocimientos previos
 
